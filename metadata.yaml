@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '42115'
     url: http://www.gutenberg.org/2009/agents/42115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46271#The-Island-of-Yellow-SandsAn-Adventure-and-Mystery-Story-for-Boys
 gutenberg_issued: '2014-07-13'
 gutenberg_type: Text
 identifiers:
