@@ -1,0 +1,36 @@
+_repo: The-Island-of-Yellow-SandsAn-Adventure-and-Mystery-Story-for-Boys_46271
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wolf, W. H.
+    alias: Wolf, W. A.
+    gutenberg_agent_id: '42116'
+    url: http://www.gutenberg.org/2009/agents/42116
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brill, Ethel C. (Ethel Claire)
+    aliases:
+    - Brill, E. C. (Ethel Claire)
+    - Brill, Ethel Claire
+    birthdate: 1877
+    gutenberg_agent_id: '42115'
+    url: http://www.gutenberg.org/2009/agents/42115
+description: ''
+gutenberg_issued: '2014-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Superior, Lake -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: 'The Island of Yellow Sands: An Adventure and Mystery Story for Boys'
+url: http://www.gutenberg.org/ebooks/46271
